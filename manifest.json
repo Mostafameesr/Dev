@@ -1,0 +1,39 @@
+{
+  "short_name": "MegaOS",
+  "name": "MegaOS ROM Repository",
+  "icons": [
+    {
+      "src": "images/megaos-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable",
+      "form_factor": "circular"
+    },
+    {
+      "src": "images/megaos-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#4B6BFF",
+  "background_color": "#000000",
+  "description": "MegaOS ROM Repository for Redmi Note 10 Pro",
+  "orientation": "portrait",
+  "categories": ["utilities"],
+  "display_override": ["window-controls-overlay"],
+  "edge_side_panel": {
+    "preferred_width": 400
+  },
+  "screenshots": [
+    {
+      "src": "images/megaos-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "circular",
+      "label": "MegaOS Icon"
+    }
+  ]
+} 
